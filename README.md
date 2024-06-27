@@ -1,5 +1,3 @@
-# GoldenZqqqq
-
 <h2 align="center">👋 Hey! I'm GoldenZqqqq. 🐘</h2>
 <br />
 ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
