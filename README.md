@@ -8,7 +8,7 @@
 
 - 🤔 这里是 GoldenZqqqq，想做一个有意思的前端工程师
 
-- ⚡ Fun fact:喜欢追剧，喜欢听音乐，喜欢看电影，钟爱 FPS 游戏，什么都想学！
+- ⚡ Fun fact: 喜欢追剧，喜欢看电影，钟爱 FPS 游戏，什么都想学！
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
