@@ -1,14 +1,14 @@
 <h2 align="center">👋 Hey! I'm GoldenZqqq. 🐘</h2>
 <br/>
 <picture>
-    <img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=GoldenZqqq&show_icons=true&hide_title=true&icon_color=e9ff70&text_color=7400b8&bg_color=0,70d6ff,ff70a6,ff9770,ffd670&locale=cn" />
+    <img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=GoldenZqqq&show_icons=true&hide_title=true&icon_color=e9ff70&text_color=7400b8&bg_color=0,70d6ff,ff70a6,ff9770,ffd670" />
 </picture>
 
 <br/>
 
 - 👋 Hi, I'm GoldenZqqq.
 - 💻 I am currently a frontend engineer.
-- 🚀 Works with JavaScript, Vue and React.
+- 🚀 Works with JavaScript, TypeScript, Vue and React.
 - 🔭 Exploring new technologies and frameworks.
 - 📫 Reach me: [zqqq1021@gmail.com].
 
