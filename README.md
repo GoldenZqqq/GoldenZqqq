@@ -1,22 +1,79 @@
 <h2 align="center">👋 Hey! I'm GoldenZqqq. 🐘</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Engineer+%26+Vibe+Coder;AI+Enthusiast+%26+MCP+Explorer;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
+
 <br/>
+
 <picture>
     <img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=GoldenZqqq&show_icons=true&hide_title=true&icon_color=e9ff70&text_color=7400b8&bg_color=0,70d6ff,ff70a6,ff9770,ffd670" />
 </picture>
 
 <br/>
 
-- 👋 Hi, I'm GoldenZqqq.
-- 💻 I am currently a frontend engineer.
-- 🚀 Works with JavaScript, TypeScript, Vue and React.
-- 🔭 Exploring new technologies and frameworks.
-- 📫 Reach me: [zqqq1021@gmail.com].
+- 👋 Hi, I'm **GoldenZqqq** - A passionate frontend engineer
+- 💻 Focused on modern frontend development, embracing **Vibe Coding** practices
+- 🚀 Proficient in JavaScript, TypeScript, Vue, React and modern tech stacks
+- 🤖 AI tools power user and active **MCP (Model Context Protocol)** explorer
+- 🔭 Continuously exploring new technologies and frameworks
+- 🎯 Believer in AI-assisted development and natural language programming
+- 📫 Reach me: [zqqq1021@gmail.com]
 
 <br/>
 
 ---
 
-## <img src="./images/bugcat_roftl.gif" width="35px"/> FrontEnd Technology <img src="./images/giphy.webp" width="35px" />
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenZqqq&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenZqqq&theme=tokyonight&hide_border=false"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenZqqq&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 🎯 Vibe Coding & AI Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Vibe_Coding-🤖_AI_Assisted_Programming-FF6B6B?style=for-the-badge&labelColor=4ECDC4" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/AI_Powered-🚀_Natural_Language_Development-00D2FF?style=for-the-badge&labelColor=FF0080" alt="AI Powered" />
+</div>
+
+### 🛠️ AI Development Toolkit
+<p>
+    <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&labelColor=F5F5F5&logoColor=000000" alt="Cursor" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&labelColor=F5F5F5&logoColor=000000" alt="GitHub Copilot" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Claude-FF6B35?style=flat&logo=anthropic&labelColor=F5F5F5" alt="Claude" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&labelColor=F5F5F5" alt="ChatGPT" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0iIzBFQTVFOSIvPgo8L3N2Zz4K&labelColor=F5F5F5" alt="Windsurf" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Codeium-09B6A2?style=flat&logo=codeium&labelColor=F5F5F5" alt="Codeium" style="display: inline-block;" />&nbsp;
+</p>
+
+---
+
+## 🔌 MCP (Model Context Protocol) Toolkit
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-8B5CF6?style=for-the-badge&labelColor=1F2937" alt="MCP" />
+</div>
+
+### 🛠️ Essential MCP Servers
+<p>
+    <img src="https://img.shields.io/badge/context7-🌐_Browser_Automation-4F46E5?style=flat&labelColor=F5F5F5" alt="context7" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/filesystem-📁_File_Operations-181717?style=flat&labelColor=F5F5F5" alt="filesystem" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/github-🐙_GitHub_Integration-336791?style=flat&logo=github&labelColor=F5F5F5" alt="github" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/postgres-🐘_Database_Access-003B57?style=flat&logo=postgresql&labelColor=F5F5F5" alt="postgres" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/brave--search-🔍_Web_Search-FB542B?style=flat&logo=brave&labelColor=F5F5F5" alt="brave-search" style="display: inline-block;" />&nbsp;
+</p>
+
+---
+
+## <img src="./images/bugcat_roftl.gif" width="35px"/> Frontend Technology Stack <img src="./images/giphy.webp" width="35px" />
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&labelColor=F5F5F5" alt="HTML5" style="display: inline-block;" />&nbsp;
@@ -56,7 +113,22 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&labelColor=F5F5F5&logoColor=E10098" alt="GraphQL" style="display: inline-block;" />&nbsp;
 </p>
 
-## <img src="./images/bugcat_roftl.gif" width="35px"/> DevOps <img src="./images/giphy.webp" width="35px" />
+## <img src="./images/bugcat_roftl.gif" width="35px"/> Backend & Database <img src="./images/giphy.webp" width="35px" />
+
+<p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&labelColor=F5F5F5" alt="Node.js" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&labelColor=F5F5F5&logoColor=000000" alt="Express.js" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&labelColor=F5F5F5" alt="Nest.js" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&labelColor=F5F5F5" alt="Python" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&labelColor=F5F5F5" alt="FastAPI" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&labelColor=F5F5F5" alt="MySQL" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&labelColor=F5F5F5" alt="PostgreSQL" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&labelColor=F5F5F5" alt="MongoDB" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&labelColor=F5F5F5" alt="Redis" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&labelColor=F5F5F5" alt="SQLite" style="display: inline-block;" />&nbsp;
+</p>
+
+## <img src="./images/bugcat_roftl.gif" width="35px"/> DevOps & Cloud <img src="./images/giphy.webp" width="35px" />
 
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&labelColor=F5F5F5" alt="Git" style="display: inline-block;" />&nbsp;
@@ -67,20 +139,61 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&labelColor=F5F5F5" alt="Docker" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&labelColor=F5F5F5" alt="Kubernetes" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/Alibaba Cloud-FF6A00?style=flat&logo=alibabacloud&labelColor=F5F5F5" alt="Alibaba Cloud" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&labelColor=F5F5F5&logoColor=000000" alt="Vercel" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&labelColor=F5F5F5" alt="Netlify" style="display: inline-block;" />&nbsp;
 </p>
 
-## <img src="./images/bugcat_roftl.gif" width="35px"/> Operating System And Common Tools <img src="./images/giphy.webp" width="35px" />
+## <img src="./images/bugcat_roftl.gif" width="35px"/> Development Environment <img src="./images/giphy.webp" width="35px" />
 
 <p>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows10&labelColor=F5F5F5&logoColor=0078D6" alt="Windows" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&labelColor=F5F5F5&logoColor=000000" alt="MacOS" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&labelColor=F5F5F5" alt="Ubuntu" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&labelColor=F5F5F5&logoColor=007ACC" alt="Visual Studio Code" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&labelColor=F5F5F5&logoColor=000000" alt="Cursor" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&labelColor=F5F5F5&logoColor=000000" alt="IntelliJ IDEA" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&labelColor=F5F5F5&logoColor=000000" alt="PyCharm" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&labelColor=F5F5F5&logoColor=000000" alt="WebStorm" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&labelColor=F5F5F5" alt="Android Studio" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&labelColor=F5F5F5" alt="Cloudflare" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/Cloudflare Pages-F38020?style=flat&logo=cloudflarepages&labelColor=F5F5F5" alt="Cloudflare Pages" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/Cloudflare Workers-F38020?style=flat&logo=cloudflareworkers&labelColor=F5F5F5" alt="Cloudflare Workers" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnometerminal&labelColor=F5F5F5&logoColor=000000" alt="Terminal" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&labelColor=F5F5F5&logoColor=000000" alt="iTerm2" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&labelColor=F5F5F5" alt="Postman" style="display: inline-block;" />&nbsp;
 </p>
+
+---
+
+## 🎯 Current Focus & Goals
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_2024_Goals-Learning_AI_Integration-FF6B6B?style=for-the-badge&labelColor=4ECDC4" />
+  <img src="https://img.shields.io/badge/🚀_Focus-MCP_Ecosystem-00D2FF?style=for-the-badge&labelColor=FF0080" />
+  <img src="https://img.shields.io/badge/💡_Exploring-Vibe_Coding_Practices-FFD93D?style=for-the-badge&labelColor=6BCF7F" />
+</div>
+
+### 🎯 Current Focus Areas
+- **🤖 AI-Assisted Development**: Deep integration of AI tools into daily development workflows
+- **🔌 MCP Ecosystem**: Exploring and contributing to Model Context Protocol tools
+- **🚀 Vibe Coding Practices**: Embracing natural language programming and AI-driven development
+- **📱 Full-Stack Evolution**: Comprehensive tech stack mastery from frontend to backend
+- **🌐 Open Source Contribution**: Actively participating in open source projects and community building
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldenZqqq&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoldenZqqq&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GoldenZqqq&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <img src="./images/bugcat-eat.webp" width="200px" alt="Thanks for visiting!" />
+
+  **Thanks for visiting my GitHub! Let's create amazing things with code and AI!** 🌟
+</div>
