@@ -46,12 +46,13 @@
 
 ### 🛠️ AI Development Toolkit
 <p>
-    <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&labelColor=F5F5F5&logoColor=000000" alt="Cursor" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Augment_Code-7C3AED?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGV4dCB4PSI2IiB5PSIxOCIgc3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjE0cHg7ZmlsbDojZmZmOyI+QTwvdGV4dD48L3N2Zz4=" alt="Augment Code" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMyAyTDEzIDEyTDEwIDE5TDMgMnoiIGZpbGw9IiMwMDAiLz48L3N2Zz4=&labelColor=F5F5F5&logoColor=000000" alt="Cursor" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&labelColor=F5F5F5&logoColor=000000" alt="GitHub Copilot" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/Claude-FF6B35?style=flat&logo=anthropic&labelColor=F5F5F5" alt="Claude" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&labelColor=F5F5F5" alt="ChatGPT" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Claude_Code-FF6B35?style=flat&logo=anthropic&labelColor=F5F5F5" alt="Claude Code" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Roo_Code-10B981?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGV4dCB4PSI2IiB5PSIxOCIgc3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjE0cHg7ZmlsbDojZmZmOyI+UjwvdGV4dD48L3N2Zz4=" alt="Roo Code" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/Kilo_Code-0EA5E9?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGV4dCB4PSI2IiB5PSIxOCIgc3R5bGU9ImZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjE0cHg7ZmlsbDojZmZmOyI+SzwvdGV4dD48L3N2Zz4=" alt="Kilo Code" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgMTJMMTIgMjJMMiAxMkwxMiAyWiIgZmlsbD0iIzBFQTVFOSIvPgo8L3N2Zz4K&labelColor=F5F5F5" alt="Windsurf" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/Codeium-09B6A2?style=flat&logo=codeium&labelColor=F5F5F5" alt="Codeium" style="display: inline-block;" />&nbsp;
 </p>
 
 ---
@@ -64,11 +65,12 @@
 
 ### 🛠️ Essential MCP Servers
 <p>
-    <img src="https://img.shields.io/badge/context7-🌐_Browser_Automation-4F46E5?style=flat&labelColor=F5F5F5" alt="context7" style="display: inline-block;" />&nbsp;
-    <img src="https://img.shields.io/badge/filesystem-📁_File_Operations-181717?style=flat&labelColor=F5F5F5" alt="filesystem" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/context7-🌐_Browser_Automation-4F46E5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTIxIDEyQzIxIDE2Ljk2NSAxNi45NjUgMjEgMTIgMjFDMTAuNDg2IDIxIDkgMjAuNjg2IDcuOTQzIDIwLjExNUM3LjY4NiAxOS45NzYgNy40NDUgMTkuODE4IDcuMjI0IDE5LjYzNEM1LjI0NCAxNy45OTcgNCAxNS4xNDYgNCAxMkM0IDcuMDM1IDguMDM1IDMgMTIgM0MxNi45NjUgMyAyMSA3LjAzNSAyMSAxMloiIGZpbGw9IiM0RjQ2RTUiIG9wYWNpdHk9Ii4yIi8+PC9zdmc+&labelColor=F5F5F5" alt="context7" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/filesystem-📁_File_Operations-181717?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNiA0aDQuNWwxIDJoNi41YTMgMyAwIDAgMSAzIDN2OWEzIDMgMCAwIDEtMyAzSDdhMyAzIDAgMCAxLTMtM1Y3YTMgMyAwIDAgMSAzLTN6IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTcgOEgxN2EyIDIgMCAwIDEgMiAydjdhMiAyIDAgMCAxLTIgMkg3YTIgMiAwIDAgMS0yLTJWOEEyIDIgMCAwIDEgNyA4eiIgZmlsbD0iIzE4MTcxNyIvPjwvc3ZnPg==&labelColor=F5F5F5" alt="filesystem" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/github-🐙_GitHub_Integration-336791?style=flat&logo=github&labelColor=F5F5F5" alt="github" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/postgres-🐘_Database_Access-003B57?style=flat&logo=postgresql&labelColor=F5F5F5" alt="postgres" style="display: inline-block;" />&nbsp;
     <img src="https://img.shields.io/badge/brave--search-🔍_Web_Search-FB542B?style=flat&logo=brave&labelColor=F5F5F5" alt="brave-search" style="display: inline-block;" />&nbsp;
+    <img src="https://img.shields.io/badge/playwright-🧪_Browser_Testing-2EAD33?style=flat&logo=playwright&labelColor=F5F5F5" alt="playwright" style="display: inline-block;" />&nbsp;
 </p>
 
 ---
