@@ -20,10 +20,6 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GoldenZqqq&theme=tokyonight&hide_border=false"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenZqqq&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
