@@ -1,0 +1,55 @@
+name: Update activity graph
+
+# Regenerates images/activity-graph.svg from the GitHub GraphQL API so the
+# profile README never depends on a third-party rendering service again.
+# (The old github-readme-activity-graph.vercel.app demo instance started
+# returning HTTP 402 DEPLOYMENT_DISABLED, which broke the image.)
+
+on:
+  schedule:
+    # Every day at 02:23 UTC = 10:23 Asia/Shanghai
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/gen-activity-graph.mjs"
+      - ".github/workflows/activity-graph.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: GoldenZqqq
+        run: node scripts/gen-activity-graph.mjs
+
+      - name: Commit refreshed graph
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain -- images/activity-graph.svg)" ]; then
+            echo "Activity graph is already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/activity-graph.svg
+          git commit -m "chore: refresh activity graph [skip ci]"
+          git push

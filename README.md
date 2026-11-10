@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenZqqq&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="./images/activity-graph.svg" width="100%" alt="GoldenZqqq contribution activity graph" />
 </div>
 
 ---
